@@ -4,7 +4,7 @@
 *   Author        : Khizar Hayat                                                                                                       *
 *   Date          : 07-FEB-2024                                                                                                        *
 *   Problem       : Min distance between two given nodes of a Binary Tree                                                              *
-*   Problem Link  : https://www.geeksforgeeks.org/problems/node-at-distance/1                                                          *
+*   Problem Link  : https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1                     *
 *   Difficulty    : Medium                                                                                                             *
 *   Topics Tags   : Tree, Data structure, DSA, Algorithm                                                                               *
 *   Company Tags  : Amazon, Samsung, MakeMy Trip, Ola Cabs, Linkedin, Qualcomm                                                         *
